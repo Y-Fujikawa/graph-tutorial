@@ -1,0 +1,4 @@
+# AzureAD
+export AZURE_APP_ID=
+export AZURE_APP_SECRET=
+export AZURE_SCOPES="openid profile email offline_access user.read"
