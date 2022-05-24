@@ -59,6 +59,6 @@ gem 'omniauth-rails_csrf_protection', '~> 0.1.2'
 
 gem 'httparty', '~> 0.18.1'
 
-gem 'nokogiri', '~> 1.11'
+gem 'nokogiri', '~> 1.13'
 
 gem 'activerecord-session_store', '~> 1.1'
